@@ -18,9 +18,11 @@ onMounted(() => {
 
     <RecycleScroller class="h-[calc(100vh-100px)]" :items="result" :item-size="100" key-field="text" v-slot="{ item }">
       <a class="flex items-center justify-between transition border-gray-300 border-solid link link-info user hover:bg-gray-300 border-b-1"
-        v-clipboard="item.link">
-        <img :src="item.link" :alt="item.text" class="w-auto h-full"> <span class="text-blue-500 text-[30px]">{{ item.text
-        }}</span>
+        v-clipboard="item.href">
+        <img :src="item.href" :key="item.text" :alt="item.text" class="w-auto h-full">
+        <span class="text-blue-500 text-[30px]">
+          {{ item.text }}
+        </span>
       </a>
     </RecycleScroller>
   </main>
