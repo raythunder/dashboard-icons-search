@@ -1,7 +1,8 @@
 # dashboard icons search page
 
-A simple page for searching dashboard icons.
+A simple page for searching dashboard icons. Click to copy the URL of the icon.
 
+https://raythunder.github.io/dashboard-icons-search/#/
 
 # 虚拟滚动
 
