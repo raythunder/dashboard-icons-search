@@ -1,35 +1,14 @@
-# dashboard-icons
+# 虚拟滚动
 
-This template should help get you started developing with Vue 3 in Vite.
+https://github.com/Akryum/vue-virtual-scroller
 
-## Recommended IDE Setup
+# tailwind 配置
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+https://juejin.cn/post/7173549978580123656
 
-## Customize configuration
+# daisyui
+https://daisyui.com/
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+# tailwind
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+https://tailwindcss.com/
