@@ -1,1 +1,0 @@
-import{o as s,a,c as r}from"./index-4990d369.js";const _={__name:"AboutView",setup(l){return s(()=>{const e=document.querySelectorAll("img"),t=[];e.forEach(o=>{const c=o.getAttribute("src"),n=o.getAttribute("alt");t.push({href:c,text:n})}),console.log("%c [ linkData ]-13","font-size:13px; background:pink; color:#bf2c9f;",t)}),(e,t)=>(a(),r("div"))}};export{_ as default};
